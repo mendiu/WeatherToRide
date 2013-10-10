@@ -1,0 +1,1 @@
+Lungo.Element.loading("#load-article", 1);
